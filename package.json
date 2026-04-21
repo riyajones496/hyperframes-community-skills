@@ -1,6 +1,6 @@
 {
   "name": "hyperframes-community-skills",
-  "version": "0.1.40",
+  "version": "0.1.41",
   "description": "Community-maintained skills for specialized HyperFrames workflows.",
   "main": "src/index.js",
   "scripts": {
